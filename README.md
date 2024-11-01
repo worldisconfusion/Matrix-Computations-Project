@@ -1,5 +1,6 @@
 # Matrix-Computations-Project
-Applications of Matrices and its manipulation in the field of Machine Learning
+# Applications of Matrices and its manipulation in the field of Machine Learning
+
 Introduction
 Matrices are fundamental structures in mathematics and are widely used across various fields, including physics, computer science, and economics. In the realm of machine learning, matrices are essential for representing and manipulating large volumes of data, making them indispensable for many core algorithms and techniques. From data representation to efficient computations, matrices allow machine learning models to perform operations such as transformations, optimizations, and decompositions, which are crucial for extracting meaningful insights from data.
 This project focuses on the applications of matrices and their manipulation in the field of machine learning. Specifically, it explores three key applications, each of which leverages different matrix operations to achieve various tasks:
